@@ -1,4 +1,4 @@
-def say_hi(nome, age):
+def print_ola(nome, age):
     print(f"Olá {nome}, que legal que você tem {age} anos!")
 
 def faca_isso() -> str:

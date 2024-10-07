@@ -1,4 +1,4 @@
-# simpleConsoleMenu
+# interactiveConsoleMenu
 Um Menu simples e interativo, oferecendo exemplo de como pode ser construído uma guia com várias opções de serviços para um sistema.
 
 # Uso do programa
